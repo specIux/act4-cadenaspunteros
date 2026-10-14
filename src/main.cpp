@@ -23,7 +23,7 @@ int main() {
     // ====================================================================
 
     cout << "=====================================================" << endl;
-    cout << "   CONTROL DE ACCESO RAM - ESTUDIANTE: Fuseneco Dardo " << endl;
+    cout << "   CONTROL DE ACCESO RAM - ESTUDIANTE: Luca DI Guglielmo " << endl;
     cout << "=====================================================" << endl;
     cout << "=> Ingrese su edad: ";
 
